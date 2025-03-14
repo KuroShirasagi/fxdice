@@ -2,7 +2,7 @@ package com.example.dice;
 import java.util.Random; //乱数を使うためのパッケージ
 //サイコロのシミュレーションをするクラス
 public class Dice {
-
+    //aaa
     private int number = 1;
 
     //コンストラクタ 初期化処理
